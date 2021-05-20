@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "desafioJunior01/1.0.0": {
+        "runtime": {
+          "desafioJunior01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafioJunior01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
